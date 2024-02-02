@@ -1,0 +1,5 @@
+1#Jose#computacao#10.0#7.0
+2#Joao#biologia#7.0#9.0
+3#Gabi#computacao#8.0#6.0
+4#Gil#computacao#8.0#5.0
+5#Zoro#biologia#5.0#9.0

@@ -1,0 +1,5 @@
+dia = int(input('Insira a quantidades de dia(s): '))
+hora = int(input('Insira a quantidades de hora(s): '))
+minuto = int(input('Insira a quantidades de minuto(s): '))
+segundo = int(input('Insira a quantidades de segundo(s): '))
+print ('A quantidade total informados em segundos é: ', (dia * 24 * 3600) + (hora * 3600) + (minuto * 60) + segundo ,'s')
